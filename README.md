@@ -220,12 +220,15 @@ https://discord.gg/853rH9zt
 - Buscar soluciones en Stack Overflow/Google
 - Usar cualquier editor de codigo
 - Usar cualquier IA.
+- Puedes agregar mas columnas en las tablas solicitadas
+- Puedes agregar mas tablas
 
 ### ❌ No Permitido
 - Copiar código completo de otros participantes
 - Usar servicios de AWS que no abarque el Test Lab del Bootcamp
 - Presentar trabajo de terceros como propio
 - Modificar fecha de commits para aparentar más trabajo
+- Modificar estructura de apis solicitadas o bases de datos
 
 ### 🚨 Penalizaciones
 - **Copia**: Descalificación inmediata

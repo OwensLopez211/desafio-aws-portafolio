@@ -27,6 +27,7 @@ Páginas principales:
 ```
 - Base de datos para perfil y proyectos
 - Autenticación básica
+  
 **Opción 2**
 **Individual usando su propio Stack** debe contruir un **Portfolio web** con:
 - Frontend responsive con:

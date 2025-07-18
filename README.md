@@ -9,7 +9,7 @@
 ### Fase 1: Desarrollo 
 **Opción 1**
 **Todos juntos enfocados en hacer backend con AWS** construimos un **template de portfolio** con:
-- Frontend:
+**- Frontend:**
 ```
 Páginas principales:
 ├── Home (Hero + resumen)
@@ -19,6 +19,14 @@ Páginas principales:
 └── Admin (panel para editar datos)
 ```
 
+**- Backend:** realizado con servicios extras de AWS
+```
+├── API Gateway (REST API)
+├── Lambda Functions (Node.js)
+└── DynamoDB (2 tablas)
+```
+- Base de datos para perfil y proyectos
+- Autenticación básica
 **Opción 2**
 **Individual usando su propio Stack** debe contruir un **Portfolio web** con:
 - Frontend responsive con:
@@ -30,8 +38,9 @@ Páginas principales:
 ├── Contact (formulario + info)
 └── Admin (panel para editar datos)
 ```
+**- Backend:** realizado en base a stack del participante pero desplegado en AWS
 - Base de datos para perfil y proyectos
-- Autenticación básica
+
 
 Nota: Indiferentemente de la opción seleccionada deben usar este repositorio para el desafio, si la opcion es trabajar en:
 **Colaborativo** deben trabajar de manera ordenada con pull request y son libres de crear las ramas necesarias segun lo que esten trabajando.

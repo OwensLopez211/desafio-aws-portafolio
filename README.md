@@ -149,11 +149,11 @@ y otros criterios...
 
 ### 🥇 Primer premio - **3 recomendaciones en LinkedIn** corroborando experiencia en alguna de las tecnologías o herramientas ocupadas en este desafío.
 
-### 🥇 Segundo premio -**Ayuda con despliegue de portafolio en dominio .is-a.dev** para desplegar portafolio solo en front con github pages
+### 🥈 Segundo premio -**Ayuda con despliegue de portafolio en dominio .is-a.dev** para desplegar portafolio solo en front con github pages
 
 > **Nota**: Dado que no tenemos presupuesto para premios, estos son los mejores premios que se me ocurrieron.
 
----
+
 
 ## 📦 ENTREGABLES
 

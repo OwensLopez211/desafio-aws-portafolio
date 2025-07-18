@@ -14,12 +14,14 @@
 **Opción 2**
 **Individual usando su propio Stack** debe contruir un **Portfolio web** con:
 - Frontend responsive con:
-                          Páginas principales:
-                          ├── Home (Hero + resumen)
-                          ├── About (perfil detallado)
-                          ├── Projects (galería de proyectos)
-                          ├── Contact (formulario + info)
-                          └── Admin (panel para editar datos)
+```
+Páginas principales:
+├── Home (Hero + resumen)
+├── About (perfil detallado)
+├── Projects (galería de proyectos)
+├── Contact (formulario + info)
+└── Admin (panel para editar datos)
+```
 - Base de datos para perfil y proyectos
 - Autenticación básica
 

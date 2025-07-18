@@ -10,6 +10,14 @@
 **Opción 1**
 **Todos juntos enfocados en hacer backend con AWS** construimos un **template de portfolio** con:
 - Frontend:
+```
+Páginas principales:
+├── Home (Hero + resumen)
+├── About (perfil detallado)
+├── Projects (galería de proyectos)
+├── Contact (formulario + info)
+└── Admin (panel para editar datos)
+```
 
 **Opción 2**
 **Individual usando su propio Stack** debe contruir un **Portfolio web** con:

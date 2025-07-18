@@ -257,6 +257,8 @@ https://discord.gg/853rH9zt
 **Colaborativo** deben trabajar de manera ordenada con pull request y son libres de crear las ramas necesarias segun lo que esten trabajando.
 **Individual** deben hacer un fork de este github y trabajarlo en base a la estructura
 
+
+**Nota:** Para los colaboradores por favor no trabajar en rama Main. Crear ramas por funciones y/o apartados o trabajar en la rama develop
 ---
 
 ## 🎉 ¡A CODEAR SE HA DICHO!

@@ -210,10 +210,11 @@ desafio-aws-portafolio/
 ---
 
 ## 📞 SOPORTE DURANTE EL DESAFÍO
+---
 
 El soporte será brindado por cada uno de nosotros en el **Grupo de WhatsApp** o por **Discord** 
 https://discord.gg/853rH9zt
----
+
 
 ## 📝 POLÍTICAS PARA PARTICIPAR
 

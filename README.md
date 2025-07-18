@@ -247,6 +247,7 @@ https://discord.gg/853rH9zt
 - Presentar trabajo de terceros como propio
 - Modificar fecha de commits para aparentar más trabajo
 - Modificar estructura de apis solicitadas o bases de datos
+- Los archivos no pueden tener mas de 400 lineas de codigo, si excede 400 lineas se debe reformular.
 
 ### 🚨 Penalizaciones
 - **Copia**: Descalificación inmediata
